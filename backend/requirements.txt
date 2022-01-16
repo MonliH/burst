@@ -1,0 +1,6 @@
+fastapi
+openai
+pydantic
+httpx
+emoji
+nltk
